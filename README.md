@@ -8,7 +8,6 @@ DEMO: URL
 
 1. Nico
 2. Mati
-3. Juanma
 4. Marcos
 
 
